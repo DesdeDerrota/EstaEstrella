@@ -57,6 +57,7 @@ and named slightly differently. I chalked this up to differences in methodology,
 [Add Photo Here - Finished Assignment]
 
 End/Final
+----------------
 [Add Photo Here - 2:55]
 
 All in all, I would say I got some pretty good work done. I got to get some sleep though, as it is 3:09 in the morning, (2:55 when I finished the assignment part) and I have an eventful day. Wouldn't want to be a bother,
