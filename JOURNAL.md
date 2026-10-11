@@ -27,7 +27,7 @@ Empieza | Starbie Session #1
 
 Introduction/Introducion
 -------------------------
-Hi, and welcome to my first log regarding the starbie project. I go by DesdeDerrota per my github name, and while I have done a few projects here or there, the idea of creating a board is still a very new thing for me.
+Hi, and welcome to my first log regarding the starbie project. I am new to the whole hackclub thing, and while I have done a few projects here or there, the idea of creating a board is still a very new thing for me.
 This is why, during this project, I hope to really grow, and what better way to do that then with a starbie?
 
 Files/Archivos
