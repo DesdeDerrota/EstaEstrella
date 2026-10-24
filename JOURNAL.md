@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T07:24:28.676Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv1cmmbu001401ncb4b6ykyi). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
 
@@ -52,21 +52,21 @@ felt lost again. A quick google search, and a 0:22 second youtube video later, I
 finished, I wondeered where I could find those x's that were on the model board, and looked across the side panel, where, wonderously enough it was there. I quickly applied the x's and then started this journal. As it is
 2:10 AM, I have been working for a little over an hour. Here's my photo!
 
-![Screenshot 2026-10-11 021244](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/kMc5MGbWp6mso7GsMmXHhpUXjc62pVev/1dc94cbb61f585c81fed4943d3014aadcb57f6ea8feac389fe7144add4c78630.png)
+![Screenshot 2026-10-11 021244](https://halflife.hackclub-assets.com/sessions/kMc5MGbWp6mso7GsMmXHhpUXjc62pVev/1dc94cbb61f585c81fed4943d3014aadcb57f6ea8feac389fe7144add4c78630.png)
 
 Starting on the next part, the buttons, I had used my new understanding to breeze through the prequisites. I even figured out how to rotate and flip the pieces with enough poking around. I think I'm gonna like this.
 I worked through the rest of the instructions on the physical side - no issues here. Very puzzle like, meditative, until I got to the assignment part, and had to type in names to get the piece I was looking for.
 
-![Screenshot 2026-10-11 024552](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/kMc5MGbWp6mso7GsMmXHhpUXjc62pVev/77faac34bceaeff59d09abc0f5a1d2de7d7ec56a17f150fec53fc23e6ab57b88.png)
+![Screenshot 2026-10-11 024552](https://halflife.hackclub-assets.com/sessions/kMc5MGbWp6mso7GsMmXHhpUXjc62pVev/77faac34bceaeff59d09abc0f5a1d2de7d7ec56a17f150fec53fc23e6ab57b88.png)
 
 The assignment step tested my patience, but I got through it, and it wasn't soo bad. One thing I have to say is that I am unsure if it is all correct. One of the assignments was autofilled, but it was in the wrong place
 and named slightly differently. I chalked this up to differences in methodology, though I will check with the slack, just to be safe.
 
-![Screenshot 2026-10-11 025538](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/kMc5MGbWp6mso7GsMmXHhpUXjc62pVev/74e38e9fabc30aa25ebb85e2e655645cc352d38f94640fbb3a1e23cdc8f94d11.png)
+![Screenshot 2026-10-11 025538](https://halflife.hackclub-assets.com/sessions/kMc5MGbWp6mso7GsMmXHhpUXjc62pVev/74e38e9fabc30aa25ebb85e2e655645cc352d38f94640fbb3a1e23cdc8f94d11.png)
 
 End/Final
 
-![Screenshot 2026-10-11 025553](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/kMc5MGbWp6mso7GsMmXHhpUXjc62pVev/5992b93630472df078ef684f24f43d3b5e3b4b3d2f1f8d270cea0c1b843269dd.png)
+![Screenshot 2026-10-11 025553](https://halflife.hackclub-assets.com/sessions/kMc5MGbWp6mso7GsMmXHhpUXjc62pVev/5992b93630472df078ef684f24f43d3b5e3b4b3d2f1f8d270cea0c1b843269dd.png)
 
 All in all, I would say I got some pretty good work done. I got to get some sleep though, as it is 3:09 in the morning, (2:55 when I finished the assignment part) and I have an eventful day. Wouldn't want to be a bother,
 and with that, I sign off. Goodbye entry #1, y ojala a hacer este otra vez. Ciao!
